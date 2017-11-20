@@ -16,7 +16,7 @@ and open the template in the editor.
         <?php
        
         
-        echo"This Is Ma Fst Project";
+        echo"This Is Ma git Project";
         
         
         ?>
